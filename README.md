@@ -11,4 +11,4 @@ The libraries used are as follows:
 
 4.  PIL(8.0.1)
 
-![alt text](https://github.com/MXNXV/Blurring-Images/blob/main/Figure_1.png)
+![alt text](https://github.com/MXNXV/Edge-Detection/blob/main/Figure_1.png)
